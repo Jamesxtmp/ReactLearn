@@ -1,5 +1,5 @@
 import ReactDOM  from "react-dom"
-import App from './Sección9_(Proyecto)Gestor-de-usuarios/App.js'
+import App from './Seccion13_Calculadora-de-Interes/App'
 import './main.css'
 
 ReactDOM.render(
