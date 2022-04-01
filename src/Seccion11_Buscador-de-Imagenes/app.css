@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(240, 236, 252);
+    padding: 15px 0;
+    box-shadow: 0 2px 1px 1px rgba(0, 0, 0, 0.1);
+}
+input{
+    padding: 0 5px;
+    outline: none;
+    border: 1px solid #ddd;
+    width: 300px;
+}
+
+.wrap-images{
+    text-align: center;
+    width: 95%;
+    margin: auto;
+}
+.target{
+    margin: 5px 5px;
+    display: inline-block;
+    width: 32%;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.1);
+}
+.target:hover{
+    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.3);
+
+}
+
+.target img{
+    border-radius: 8px 8px 0 0;
+    max-width: 100%;
+}
+.target span{
+    display: block;
+    margin: 5px;
+}

@@ -10,7 +10,11 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
+<<<<<<< HEAD
     "styled-components": "^5.3.5",
+=======
+    "unsplash-js": "^7.0.15",
+>>>>>>> 867d00f978be0db3c39058dccc2e2594f7238b84
     "web-vitals": "^2.1.4"
   },
   "scripts": {
