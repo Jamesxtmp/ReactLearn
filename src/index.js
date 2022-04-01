@@ -1,5 +1,5 @@
 import ReactDOM  from "react-dom"
-import App from './Sección9_(Proyecto)Gestor-de-usuarios/App'
+import App from './Seccion11_Buscador-de-Imagenes/App'
 import './main.css'
 
 ReactDOM.render(
